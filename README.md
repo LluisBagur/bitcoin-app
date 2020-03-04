@@ -8,7 +8,7 @@ La finalidad de esta aplicación es realizar los cálculos necesarios para saber
 
 ## ScreenShot
 
-![](./public/screenshoot.png)
+![](./public/screenshot.png)
 
 
 ## Getting Started
