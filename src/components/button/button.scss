@@ -1,0 +1,18 @@
+.button {
+    height: 35px;
+    width: 200px;
+    margin: 25px;
+    background-color: rgb(52, 141, 168);
+    border: none;
+    border-radius: 5px;
+    letter-spacing: 0em;
+    text-transform: uppercase;
+    transition: all 0.2s cubic-bezier(.4,0,.2,1);
+    text-align: center;
+    line-height: 2rem;
+    cursor: pointer;
+  }
+  .button:hover {
+    background-color:#6ac5e0;
+    letter-spacing: 0.2em;
+  }

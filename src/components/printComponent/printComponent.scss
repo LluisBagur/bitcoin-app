@@ -1,0 +1,50 @@
+.container-Box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 80vw;
+    height: 60vh;
+    background-color: white;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+  }
+  .container-Info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 70%;
+  }
+  .input-panel {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    p {
+      margin: 0;
+      width: 20%;
+      text-align: right;
+    }
+  }
+  .input-form {
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #9e9e9e;
+    border-radius: 0;
+    outline: 0;
+    height: 2rem;
+    width: 30%;
+    margin: 0 0 15px;
+    padding: 0;
+    box-shadow: none;
+    transition: all .3s;
+    font-size: 1.3rem;
+  }
+  .input-form::placeholder{
+    font-size: 1.5rem;
+  }
+  .result {
+
+  }
